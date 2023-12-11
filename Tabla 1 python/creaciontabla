@@ -1,0 +1,36 @@
+import psycopg2
+
+# Parámetros de conexión
+dbname = 'tabla1'
+host = 'localhost'
+port = '5432'
+user = 'postgres'
+password = '1234'
+
+# Conexión a la base de datos
+try:
+    conn = psycopg2.connect(dbname=dbname, user=user, password=password, host=host, port=port)
+    cursor = conn.cursor()
+
+    # Ingreso del precio del producto
+    precio = float(input("Ingrese el precio de su producto: Q"))
+    IVA = precio * 0.12
+    precio_sin_iva = precio - IVA
+    print(f"El precio sin IVA es de Q{precio_sin_iva:.0f}, el IVA es de Q{IVA:.0f}")
+
+    # Inserción en la tabla
+    try:
+        cursor.execute(f"INSERT INTO tb1 (precio) VALUES ({precio});")
+        conn.commit()
+        print("Registro insertado correctamente en la base de datos.")
+    except Exception as e:
+        print(f"Error durante la inserción en la base de datos: {e}")
+
+except Exception as e:
+    print(f"Error durante la conexión a la base de datos: {e}")
+
+finally:
+    # Cerrar la conexión
+    if conn:
+        conn.close()
+        print("Conexión cerrada.")
