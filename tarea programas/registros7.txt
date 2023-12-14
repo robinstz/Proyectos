@@ -1,0 +1,4 @@
+token, 2
+papel, 2
+pera, 2
+pelota, 3

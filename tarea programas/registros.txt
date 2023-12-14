@@ -1,0 +1,13 @@
+Registros del 20 al 30 generados el 2023-12-13 18:39:57:
+Números pares: [20 22 24 26 28 30]
+
+Registros del 4 al 16 generados el 2023-12-13 18:41:18:
+Números pares: [4 6 8 10 12 14 16]
+
+Registros del 6 al 18 generados el 2023-12-13 18:41:25:
+Números pares: [6 8 10 12 14 16 18]
+
+Registro actual - Mayor: 10, Menor: 5, Números: 10, 9, 8, 7, 6, 5
+Registros del 2 al 10 generados el 2023-12-13 23:19:24:
+Números pares: [2 4 6 8 10]
+

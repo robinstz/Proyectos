@@ -1,0 +1,129 @@
+Número	Resultado
+55	El faltorial es 5040
+52	9
+69	l faltorial es 6.08282e+62
+49	8
+32	El numero 18 no es divisible entre 7
+55	El factorial es 5040
+52	5
+69	l número 45 no es divisible entre 7
+52	2
+69	l factorial es 1.40501e+51
+Número	Resultado
+55	El faltorial es 5040
+52	9
+69	l faltorial es 6.08282e+62
+49	8
+32	El numero 18 no es divisible entre 7
+55	El factorial es 5040
+52	5
+69	l número 45 no es divisible entre 7
+52	2
+69	l factorial es 1.40501e+51
+55	El factorial es 5040
+Número	Resultado
+55	El faltorial es 5040
+52	9
+69	l faltorial es 6.08282e+62
+49	8
+32	El numero 18 no es divisible entre 7
+55	El factorial es 5040
+52	5
+69	l número 45 no es divisible entre 7
+52	2
+69	l factorial es 1.40501e+51
+55	El factorial es 5040
+53	El número 5 no es divisible entre 7
+Número	Resultado
+55	El faltorial es 5040
+52	9
+69	l faltorial es 6.08282e+62
+49	8
+32	El numero 18 no es divisible entre 7
+55	El factorial es 5040
+52	5
+69	l número 45 no es divisible entre 7
+52	2
+69	l factorial es 1.40501e+51
+55	El factorial es 5040
+53	El número 5 no es divisible entre 7
+52	9
+69	l factorial es 6.08282e+62
+Número	Resultado
+55	El faltorial es 5040
+52	9
+69	l faltorial es 6.08282e+62
+49	8
+32	El numero 18 no es divisible entre 7
+55	El factorial es 5040
+52	5
+69	l número 45 no es divisible entre 7
+52	2
+69	l factorial es 1.40501e+51
+55	El factorial es 5040
+53	El número 5 no es divisible entre 7
+52	9
+69	l factorial es 6.08282e+62
+52	9
+69	l factorial es 6.08282e+62
+Número	Resultado
+55	El faltorial es 5040
+52	9
+69	l faltorial es 6.08282e+62
+49	8
+32	El numero 18 no es divisible entre 7
+55	El factorial es 5040
+52	5
+69	l número 45 no es divisible entre 7
+52	2
+69	l factorial es 1.40501e+51
+55	El factorial es 5040
+53	El número 5 no es divisible entre 7
+52	9
+69	l factorial es 6.08282e+62
+52	9
+69	l factorial es 6.08282e+62
+52	9
+69	l factorial es 6.08282e+62
+Número	Resultado
+55	El faltorial es 5040
+52	9
+69	l faltorial es 6.08282e+62
+49	8
+32	El numero 18 no es divisible entre 7
+55	El factorial es 5040
+52	5
+69	l número 45 no es divisible entre 7
+52	2
+69	l factorial es 1.40501e+51
+55	El factorial es 5040
+53	El número 5 no es divisible entre 7
+52	9
+69	l factorial es 6.08282e+62
+52	9
+69	l factorial es 6.08282e+62
+52	9
+69	l factorial es 6.08282e+62
+55	El factorial es 5040
+Número	Resultado
+55	El faltorial es 5040
+52	9
+69	l faltorial es 6.08282e+62
+49	8
+32	El numero 18 no es divisible entre 7
+55	El factorial es 5040
+52	5
+69	l número 45 no es divisible entre 7
+52	2
+69	l factorial es 1.40501e+51
+55	El factorial es 5040
+53	El número 5 no es divisible entre 7
+52	9
+69	l factorial es 6.08282e+62
+52	9
+69	l factorial es 6.08282e+62
+52	9
+69	l factorial es 6.08282e+62
+55	El factorial es 5040
+55	0
+69	l factorial es 1.19786e+100

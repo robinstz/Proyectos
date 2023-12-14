@@ -1,0 +1,2 @@
+Palabra: GERARDO, Resultado: 1, 1, 0, 1, 0
+Palabra: PATO, Resultado: 1, 0, 0, 1, 0

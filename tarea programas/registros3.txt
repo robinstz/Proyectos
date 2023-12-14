@@ -1,0 +1,3 @@
+Registros del 12 al 18 generados el 2023-12-14 12:01:43:
+Números pares: [12 14 16 18]
+

@@ -1,0 +1,20 @@
+Modelo	Kilometraje	Estado
+2005	50	El taxi necesita atención mecánica
+2008	20	El taxi necesita atención mecánica
+2015	50	El taxi está en óptimas condiciones
+2007	30000	El taxi necesita mantenimiento
+2005	100	El taxi necesita atención mecánica
+2005	100	El taxi esta en buenas condiciones
+2008	1000	El taxi esta en buenas condiciones
+2008	25000	El taxi necesita mantenimiento
+2009	50000	El taxi necesita mantenimiento
+2001	100	El taxi esta en buenas condiciones
+1998	500	El taxi esta en buenas condiciones
+2015	60	El taxi está en óptimas condiciones
+200	50	El taxi esta en buenas condiciones
+2000	100	El taxi esta en buenas condiciones
+2018	60000	El taxi necesita atención mecánica
+1995	100	El taxi esta en buenas condiciones
+1996	50	El taxi esta en buenas condiciones
+1995	20000	El taxi debe renovarse
+2000	100	El taxi esta en buenas condiciones

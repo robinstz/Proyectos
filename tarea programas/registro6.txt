@@ -1,0 +1,6 @@
+Numero: 6, Suma: 21
+Numero: 7, Suma: 28
+Numero: 8, Suma: 36
+Numero: 9, Suma: 45
+Numero: 9, Suma: 45
+Numero: 15, Suma: 120

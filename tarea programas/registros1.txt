@@ -1,0 +1,16 @@
+Número 1: 15
+Número 2: 14
+Número 3: 13
+
+Número 1: 20
+Número 2: 20
+Número 3: 20
+
+Número 1: 50
+Número 2: 40
+Número 3: 20
+
+Número 1: 50
+Número 2: 45
+Número 3: 40
+

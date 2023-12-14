@@ -1,0 +1,28 @@
+Historial de resultados:
+Resultado 1
+Lados: 4, 4, 4
+Tipo de triángulo: Equilátero
+
+Resultado 2
+Lados: 9, 8, 7
+Tipo de triángulo: Escaleno
+
+Historial de resultados:
+Resultado 1
+Lados: 5, 5, 5
+Tipo de triángulo: Equilátero
+
+Resultado 2
+Lados: 9, 8, 7
+Tipo de triángulo: Escaleno
+
+Historial de resultados:
+Resultado 1
+Lados: 5, 1, 3
+Tipo de triángulo: Escaleno
+
+Historial de resultados:
+Resultado 1
+Lados: 1, 1, 1
+Tipo de triángulo: Equilátero
+

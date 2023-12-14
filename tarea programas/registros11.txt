@@ -1,0 +1,51 @@
+Figura	Área	Resultado
+Círculo	Radio: 5	Área: 78.5398
+Triángulo	Base: 3, Altura: 2	Área: 3
+Cuadrado	Lado: 5	Área: 25
+Rectángulo	Base: 2, Altura: 8	Área: 16
+Círculo	Radio: 5	Área: 78.5398
+Figura	Área	Resultado
+Círculo	Radio: 5	Área: 78.5398
+Triángulo	Base: 3, Altura: 2	Área: 3
+Cuadrado	Lado: 5	Área: 25
+Rectángulo	Base: 2, Altura: 8	Área: 16
+Círculo	Radio: 5	Área: 78.5398
+Triángulo	Base: 3, Altura: 2	Área: 3
+Figura	Área	Resultado
+Círculo	Radio: 5	Área: 78.5398
+Triángulo	Base: 3, Altura: 2	Área: 3
+Cuadrado	Lado: 5	Área: 25
+Rectángulo	Base: 2, Altura: 8	Área: 16
+Círculo	Radio: 5	Área: 78.5398
+Triángulo	Base: 3, Altura: 2	Área: 3
+Cuadrado	Lado: 5	Área: 25
+Figura	Área	Resultado
+Círculo	Radio: 5	Área: 78.5398
+Triángulo	Base: 3, Altura: 2	Área: 3
+Cuadrado	Lado: 5	Área: 25
+Rectángulo	Base: 2, Altura: 8	Área: 16
+Círculo	Radio: 5	Área: 78.5398
+Triángulo	Base: 3, Altura: 2	Área: 3
+Cuadrado	Lado: 5	Área: 25
+Rectángulo	Base: 2, Altura: 8	Área: 16
+Figura	Área	Resultado
+Círculo	Radio: 5	Área: 78.5398
+Triángulo	Base: 3, Altura: 2	Área: 3
+Cuadrado	Lado: 5	Área: 25
+Rectángulo	Base: 2, Altura: 8	Área: 16
+Círculo	Radio: 5	Área: 78.5398
+Triángulo	Base: 3, Altura: 2	Área: 3
+Cuadrado	Lado: 5	Área: 25
+Rectángulo	Base: 2, Altura: 8	Área: 16
+Triángulo	Base: 2, Altura: 5	Área: 5
+Figura	Área	Resultado
+Círculo	Radio: 5	Área: 78.5398
+Triángulo	Base: 3, Altura: 2	Área: 3
+Cuadrado	Lado: 5	Área: 25
+Rectángulo	Base: 2, Altura: 8	Área: 16
+Círculo	Radio: 5	Área: 78.5398
+Triángulo	Base: 3, Altura: 2	Área: 3
+Cuadrado	Lado: 5	Área: 25
+Rectángulo	Base: 2, Altura: 8	Área: 16
+Triángulo	Base: 2, Altura: 5	Área: 5
+Rectángulo	Base: 5, Altura: 2	Área: 10
